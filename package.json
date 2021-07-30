@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "step1-cli": "tsc && node build/step1/index.js",
-    "step2-cli": "tsc && node build/step2/index.js",
-    "step3-cli": "tsc && node build/step3/index.js",
-    "step4-cli": "tsc && node build/step4/index.js",
+    "step1-cli": "tsc && node build/step1/StoryAssistant.js",
+    "step2-cli": "tsc && node build/step2/StoryAssistant.js",
+    "step3-cli": "tsc && node build/step3/StoryAssistant.js",
+    "step4-cli": "tsc && node build/step4/StoryAssistant.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
