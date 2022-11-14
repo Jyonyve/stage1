@@ -51,5 +51,12 @@ package-lock.json
 package.json
 tsconfig.json
 yarn.lock
+<<<<<<< HEAD
+=======
+.vscode/*
+node_modules
+out
+
+>>>>>>> a36a554 (1일차 : Stage 1 - 1)
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
